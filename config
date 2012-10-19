@@ -1,0 +1,11 @@
+header_visibility = "no"
+mpd_communication_mode = 'notifications'
+mpd_music_dir = "/home/bpierre/desktop/music"
+playlist_display_mode = "columns"
+playlist_separate_albums = "yes"
+song_list_format = "{$5%a$9}{$8 - %b - $9}{%t}|{$8%f$9}$R{$3(%l)$9}"
+statusbar_visibility = "yes"
+titles_visibility = "no"
+user_interface = "alternative"
+
+# vim: ft=cfg
